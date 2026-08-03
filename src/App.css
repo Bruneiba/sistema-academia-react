@@ -1,0 +1,12 @@
+.app-academia-container { max-width: 600px; margin: 30px auto; padding: 20px; background-color: #121214; color: #e1e1e6; border-radius: 8px; font-family: sans-serif; }
+.estilo-formulario { display: flex; flex-direction: column; gap: 10px; background: #202024; padding: 15px; border-radius: 6px; margin-bottom: 20px; }
+.estilo-formulario input, .estilo-formulario select, .estilo-formulario button { padding: 10px; border-radius: 4px; border: 1px solid #323238; background: #121214; color: #fff; }
+.estilo-formulario button { background: #00875f; cursor: pointer; font-weight: bold; border: none; }
+.lista-exercicios { list-style: none; padding: 0; }
+.item-treino { display: flex; justify-content: space-between; background: #29292e; padding: 12px; margin-bottom: 8px; border-radius: 4px; align-items: center; }
+.exercicio-finalizado { border-left: 5px solid #00875f; opacity: 0.6; }
+.btn-concluir { background: #00875f; color: white; border: none; padding: 5px 10px; margin-right: 5px; cursor: pointer; border-radius: 3px; }
+.btn-excluir { background: #f75a68; color: white; border: none; padding: 5px 10px; cursor: pointer; border-radius: 3px; }
+.painel-estatisticas { margin-top: 20px; background: #202024; padding: 15px; border-radius: 6px; text-align: center; border: 1px dashed #00875f; }
+.destaque-metrica { font-size: 24px; color: #00875f; font-weight: bold; margin: 5px 0 0 0; }
+.aviso-vazio { text-align: center; color: #8d8d99; font-style: italic; }
